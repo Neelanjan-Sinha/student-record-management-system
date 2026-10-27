@@ -7,6 +7,13 @@ A desktop application built using **Java Swing, JDBC, and Oracle Database** to m
 The Student Record Management System provides a simple interface for storing, searching, updating, deleting, and viewing student information. It connects to an Oracle Database using JDBC and displays records in a JTable.
 
 This project demonstrates Java GUI development, database connectivity, SQL operations, and event handling.
+## Screenshots
+
+### Student Records
+![Student Records Table](screenshots/student-records.png)
+
+### Add Student Details
+![Student Add Record](screenshots/add-student.png)
 
 ## Features
 
