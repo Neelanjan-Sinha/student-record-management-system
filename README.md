@@ -123,27 +123,3 @@ Ensure that Oracle Database is running and the JDBC connection details are corre
 6. Select or enter a student ID and click **Delete** to remove a record.
 7. Click **View All** to display all student records.
 8. Click **Clear** to reset the form.
-
-## Learning Outcomes
-
-This project demonstrates:
-
-- Object-oriented programming in Java.
-- GUI development using Java Swing.
-- JDBC connection and SQL query execution.
-- CRUD operations in a relational database.
-- Event-driven programming with action listeners.
-- Displaying database records using JTable.
-
-## Future Improvements
-
-- Add email format validation.
-- Improve exception handling and user feedback.
-- Use environment variables for database configuration.
-- Add sorting and filtering to the student table.
-- Introduce a separate database access layer.
-- Improve the interface design.
-
-## License
-
-This project is available for educational and learning purposes. If you want others to reuse or modify it under defined terms, consider adding an open-source license such as the MIT License.
