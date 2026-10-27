@@ -1,0 +1,27 @@
+
+# Java compiled files
+*.class
+
+# Oracle JDBC driver - download separately
+ojdbc*.jar
+
+# IDE files
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+nbproject/private/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+application-local.properties
+
+# Logs
+*.log
